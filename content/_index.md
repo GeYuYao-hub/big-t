@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        YuyaoGe's Demo!!!
       image:
         filename: welcome.jpg
       text: |
